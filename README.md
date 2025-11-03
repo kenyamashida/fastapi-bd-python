@@ -8,7 +8,7 @@
 <h2>📝 Descrição do Projeto</h2>
 
 <p>
-    Esta aplicação implementa as operações **CRUD (Create, Read, Update, Delete)** completas. Utiliza o framework <b>FastAPI</b> para alta performance assíncrona e o <b>MongoDB Atlas</b> (via driver <b>Motor</b>) para persistência de dados NoSQL.
+    Esta aplicação implementa as operações CRUD (Create, Read, Update, Delete) completas. Utiliza o framework <b>FastAPI</b> para alta performance assíncrona e o <b>MongoDB Atlas</b> (via driver <b>Motor</b>) para persistência de dados NoSQL.
 </p>
 <p>
     O deploy do serviço foi realizado com sucesso na plataforma <b>Render</b>.
@@ -118,12 +118,13 @@ COLLECTION_NAME="users"
 
 <p>Instale as dependências listadas em <code>requirements.txt</code> e inicie o servidor:</p>
 
-```bash
+<pre>
 # Instalação (dentro do ambiente virtual)
 pip install -r requirements.txt
 
 # Inicia o servidor em modo de desenvolvimento
 python -m uvicorn main:app --reload
+</pre>
 
 <p>A documentação interativa estará acessível em <a href="http://127.0.0.1:8000/docs">http://127.0.0.1:8000/docs</a>.</p>
 
@@ -135,6 +136,4 @@ python -m uvicorn main:app --reload
 
 <hr>
 
-<h2>✍️ Autor</h2>
-
-<p><b>[Seu Nome Completo Aqui]</b></p>
+<h2>✍️ Kenyamashida</h2>
