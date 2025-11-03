@@ -126,7 +126,7 @@ pip install -r requirements.txt
 python -m uvicorn main:app --reload
 </pre>
 
-<p>A documentação interativa estará acessível em <a href="http://127.0.0.1:8000/docs">http://127.0.0.1:8000/docs</a>.</p>
+<p>A documentação interativa estará acessível em <a href="https://github.com/kenyamashida/fastapi-bd-python?tab=readme-ov-file">https://github.com/kenyamashida/fastapi-bd-python?tab=readme-ov-file</a>.</p>git a
 
 <hr>
 
